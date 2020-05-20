@@ -1,0 +1,10 @@
+#ifndef KINEMATICS_CPP_BOXCOLLIDER_H
+#define KINEMATICS_CPP_BOXCOLLIDER_H
+
+
+class boxCollider {
+
+};
+
+
+#endif //KINEMATICS_CPP_BOXCOLLIDER_H
